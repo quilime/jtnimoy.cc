@@ -1,0 +1,129 @@
+div#right-menu{
+    position: absolute;
+    text-align: right;
+    width:400px;
+    height: 50px;
+    left: 100%;
+    top: 10px;
+    margin-left: -420px;
+    background: white;
+}
+
+#jumbo{
+    width: 100%;
+    height: 410px;
+    border: none;
+    overflow: hidden;
+}
+
+html {
+    font-family: arial, sans-serif;
+    padding: 20px;
+}
+
+.menu li, .tag-list li{
+    float: left;
+    list-style-type: none;
+    padding-right: 1em;
+    padding-bottom: 0.1em;
+}
+
+.menu ul, .tag-list ul{
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+}
+
+.clear {
+    clear: left;
+}
+
+.article img{
+    width: 100%;
+}
+
+
+.tag-list{
+    display: inline;
+    padding: 1em;
+}
+
+.socialbar p {
+    float: left;
+    margin: 1em;
+}
+
+.clear {
+    clear: both;
+}
+
+.thumbflow {
+
+}
+
+.thumbflow .folioItem{
+    display: inline-block;
+    width: 180px;
+    margin: 10px;
+    vertical-align: top;
+}
+
+.thumbflow img{
+    margin-bottom: 10px;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.thumbflow .titlecap{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+
+.thumbflow .tags-list {
+    font-size: 9px;
+    
+}
+
+a{
+    text-decoration: none;    
+}
+
+#logo{
+    width: 18px;
+    height: 18px;
+    border: none;
+    box-shadow: none;
+    padding-top: 10px;
+    margin-top: 10px;
+    position: absolute;
+    left: 10px;
+    top: 7px;
+}
+
+
+div#right-menu a img.topbutton{
+    width: 50px;
+    height: 50px;
+}
+
+#title{
+    /* background: yellow; */
+    /* margin-top: 60px; */
+    text-align: center;
+}
+
+h1{
+    font-family: monaco;
+}
+
+#container1{
+    margin-left: -28px;
+    margin-bottom: 50px;
+}
+
+
+.menu#primary-menu {
+    index: 2;
+}
