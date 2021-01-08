@@ -115,7 +115,7 @@ div#right-menu a img.topbutton{
 }
 
 h1{
-    font-family: monaco;
+    font-family: monospace !important;
 }
 
 #container1{
