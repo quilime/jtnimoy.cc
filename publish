@@ -1,3 +1,0 @@
-#!/bin/sh
-
-rsync -var --progress build/* quilime@quilime.com:/home/quilime/jtnimoy.cc/
