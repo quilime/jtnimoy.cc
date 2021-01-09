@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# will overwrite existing files
+
+pwd=`pwd`
+
+while IFS= read -r URL
+do
+    cd "${pwd}/../cdn"
+    pwd
+    echo "<<<<"
+    echo "$URL"
+    dirname=`dirname $URL | sed -r 's,https://cdn-jtnim.appspot.com/,,g'`
+    mkdir -p ${dirname}
+    echo ${dirname}
+    # curl -LO ${URL}
+done < cdn-links.txt
