@@ -3266,7 +3266,7 @@ https://cdn-jtnim.appspot.com/images/thumbs/hipsum.png=s162
 http://cdn-jtnim.appspot.com/images/thumbs/renoir.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/dream_new.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/deepdream2.jpg=s162
-http://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
+https://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/202.png=s162
 https://cdn-jtnim.appspot.com/186/01.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/188.jpg
@@ -6842,7 +6842,7 @@ https://cdn-jtnim.appspot.com/images/thumbs/hipsum.png=s162
 http://cdn-jtnim.appspot.com/images/thumbs/renoir.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/dream_new.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/deepdream2.jpg=s162
-http://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
+https://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/202.png=s162
 https://cdn-jtnim.appspot.com/186/01.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/188.jpg
@@ -6913,10 +6913,10 @@ https://cdn-jtnim.appspot.com/images/thumbs/DezYbqlVMAIgadp.png=s162
 https://cdn-jtnim.appspot.com/ea-gen-branding-02/01.png=s162
 https://cdn-jtnim.appspot.com/rgbd-clouds/04.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/hipsum.png=s162
-http://cdn-jtnim.appspot.com/images/thumbs/renoir.png=s162
+https://cdn-jtnim.appspot.com/images/thumbs/renoir.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/dream_new.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/deepdream2.jpg=s162
-http://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
+https://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/202.png=s162
 https://cdn-jtnim.appspot.com/186/01.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/188.jpg
@@ -6990,7 +6990,7 @@ https://cdn-jtnim.appspot.com/images/thumbs/hipsum.png=s162
 http://cdn-jtnim.appspot.com/images/thumbs/renoir.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/dream_new.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/deepdream2.jpg=s162
-http://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
+https://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/202.png=s162
 https://cdn-jtnim.appspot.com/186/01.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/188.jpg
@@ -7064,7 +7064,7 @@ https://cdn-jtnim.appspot.com/images/thumbs/hipsum.png=s162
 http://cdn-jtnim.appspot.com/images/thumbs/renoir.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/dream_new.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/deepdream2.jpg=s162
-http://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
+https://cdn-jtnim.appspot.com/2014-neural-mural/screenshot.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/202.png=s162
 https://cdn-jtnim.appspot.com/186/01.png=s162
 https://cdn-jtnim.appspot.com/images/thumbs/188.jpg
