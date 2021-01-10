@@ -1,10 +1,9 @@
 # jtnimoy.cc
 
-archive jtnimoy.net
+Archive of jtnimoy.net
 
-hosted at [https://jtnimoy.cc](https://jtnimoy.cc)
+In memory of jtnimoy 1979 - 2020
 
-In memory of JTNimoy 1979 - 2020
+Currently hosted at [https://jtnimoy.cc](https://jtnimoy.cc)
 
 See the `data/` folder for scraping scripts
-
